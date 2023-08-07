@@ -16,8 +16,3 @@
 
 Note that when the user restarts the game, the asteroids' X values are randomly generated once again.
 
-
-Hint: 
-Implement asteroid class to make asteroid objects. This can help make the program easier.
-
-Watch the attached video to give you an idea of what is required. Your teams shall consist of groups of two.
